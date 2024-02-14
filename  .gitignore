@@ -1,0 +1,9 @@
+__pychace__/
+venv/
+.idea/
+
+media/
+
+db.sqlite3
+
+.env
